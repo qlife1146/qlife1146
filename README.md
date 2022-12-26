@@ -13,6 +13,6 @@
 - SQL
 
 # Preparation Stack
-- NodeJS
+- NodeJS(studying)
 - React
 - TypeScript
