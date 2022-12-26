@@ -3,11 +3,16 @@
 # Main Stack
 - Python
 - JavaScript
+- HTML
+- css
 
 # Sub Stack
 - Swift
 - C
 - Dart
 - SQL
-- HTML
-- css
+
+# Preparation Stack
+- NodeJS
+- React
+- TypeScript
