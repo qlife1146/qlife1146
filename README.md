@@ -11,6 +11,7 @@
 - C
 - Dart
 - SQL
+- Flutter
 
 # Preparation Stack
 - NodeJS(studying)
