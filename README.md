@@ -7,13 +7,13 @@
 - css
 
 # Sub Stack
-- Swift
+- Swift(beginner)
 - C
-- Dart
 - SQL
-- Flutter
+- Dart(beginner)
+- Flutter(beginner)
 
 # Preparation Stack
 - NodeJS(studying)
-- React
+- React(studying)
 - TypeScript
