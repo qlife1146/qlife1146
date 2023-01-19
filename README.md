@@ -5,6 +5,7 @@
 - JavaScript
 - HTML
 - css
+- React
 
 # Sub Stack
 - Swift(beginner)
@@ -13,7 +14,8 @@
 - Dart(beginner)
 - Flutter(beginner)
 
+
 # Preparation Stack
 - NodeJS(studying)
-- React(studying)
+
 - TypeScript
