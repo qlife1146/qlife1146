@@ -1,23 +1,13 @@
-여러 가지를 다뤄보고 있는 개발자(지망생). 주로 컴퓨터 생활 중에 필요한 것들을 만들어보고 있습니다.
+번역 위주로 하고 있습니다.
 
-자세한 정리된 포트폴리오는 [노션](https://nickel-october-db4.notion.site/40d203283bf3456a8b3293009d8b0db4)을 참고해 주세요.
+번역 종류
+-
+ - 만화
+ - 노래 가사
+ - 2차 창작 만화
+ - 서브컬처(음성 합성 엔진) 노래 가사
+ - 애플리케이션, 프로그램의 매뉴얼 및 내부 언어
 
-# Main Stack
-- Python
-- JavaScript
-- HTML
-- css
-- React
-
-# Sub Stack
-- Swift(beginner)
-- C
-- SQL
-- Dart(beginner)
-- Flutter(beginner)
-
-
-# Preparation Stack
-- NodeJS(studying)
-
-- TypeScript
+경력
+-
+2023.04 ~ 2023.10 : 일본에서 수입한 `자동 미생물 도말 장치`의 매뉴얼 번역 및 채팅 소통, 현지 기술자가 한국에 방문 시 통역 등. ~~기계 수리.~~
