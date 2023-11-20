@@ -16,6 +16,9 @@
    - Beholder: 검수(맞춤법 및 문법 교정 등)
    - [Long Live the Queen](https://prism-translate.tistory.com/4): 2차 검수(맞춤법 및 문법 등)
    - Slay the Princess: 손번역(진행중)
+ - 영상 번역
+   - お文具のアニメ: 비공식 댓글 번역(2022.06.08.~2023.06.08.)
+
 
 경력
 -
