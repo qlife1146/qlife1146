@@ -13,6 +13,7 @@
  - (사용자 친화적으로) 애플리케이션, 프로그램의 매뉴얼 및 내부 언어
    - [Realtime Voice Changer](https://github.com/qlife1146/voice-changer)
  - 게임
+   - Beholder: 검수(맞춤법 및 문법 교정 등)
    - [Long Live the Queen](https://prism-translate.tistory.com/4): 2차 검수(맞춤법 및 문법 등)
    - Slay the Princess: 손번역(진행중)
 
