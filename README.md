@@ -2,16 +2,19 @@
 
 일한 번역이 메인이지만, 영어 번역도 문외한인 분야만 아니면 못 하지 않습니다.
 
-혹은 편의성을 위한 프로그램 등을 개발합니다.
+혹은 편의성을 위한 [툴](https://github.com/qlife1146/vocaro_wiki_formatter) 등을 개발합니다.
 
 번역 종류
 -
  - 만화
- - 노래 가사
- - 2차 창작 만화
- - 서브컬처(음성 합성 엔진) 노래 가사
+ - [노래 가사]
+ - 2차 창작 만화: 커뮤니티 게재
+ - 서브컬처(음성 합성 엔진) 노래 가사: 사이트 '보카로 가사 위키' 게재
  - (사용자 친화적으로) 애플리케이션, 프로그램의 매뉴얼 및 내부 언어
- - ~~게임~~
+   - [Realtime Voice Changer](https://github.com/qlife1146/voice-changer)
+ - 게임
+   - [Long Live the Queen](https://prism-translate.tistory.com/4): 2차 검수(맞춤법 및 문법 등)
+   - Slay the Princess: 손번역(진행중)
 
 경력
 -
